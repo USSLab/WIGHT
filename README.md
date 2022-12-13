@@ -1,2 +1,2 @@
-# WIGHT
-Manipulating your smartphone via a charging cable
+# What is WIGHT?
+Capacitive touchscreens have become essential interfaces for humans to interact with a variety of consumer electronics, e.g., smartphones, tablets, and even vehicles, reliable touch operation becomes critical for usability and security. “Ghost Touch” indicates the phenomena that a touchscreen outputs fake touches and starts to control the device by itself yet users impose no physical contacts on the screen at all. Unlike existing work that injects ghost touches by conducting radiated EMI over the air or injecting , we propose WIGHT that can inject malicious touches into the touchscreen via a investigate the principle of feasibility of injecting ghost touches via a 
