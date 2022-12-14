@@ -85,4 +85,5 @@ We validated the effectiveness of WIGHT on 9 commercial touchscreen devices, 13 
 | Zhejiang University | Technical University of Darmstadt | 
 | <img src="https://github.com/yanjiang98/WIGHT/blob/main/images/zju.jpg" width="220px"> | <img src="https://github.com/yanjiang98/WIGHT/blob/main/images/Technical University of Darmstadt.jpg" width="200px"> |
 
-
+# Paper download
+[WIGHT: Wired Ghost Touch Attack on Capacitive Touchscreens](https://ieeexplore.ieee.org/document/9833740)
