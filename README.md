@@ -3,10 +3,12 @@ Capacitive touchscreens have become essential interfaces for humans to interact 
 
 # Overview of the principle of WIGHT
 WIGHT first injects a crafted common-mode signal into the GND line of the charging cable, and then the common-mode signal will be converterd into a differential-mode signal due to the asymmetric circuits in the touch controller. Then, the differential-mode signal will interfere with the capaitance measurement. Once the output signal of the sensing circuit exceeds the threshold, ghost touches will be detected.
+
 <img src="https://github.com/yanjiang98/WIGHT/blob/main/images/overview.png" width="800px">
 
 # How dose human touch work?
 When a human touches a touchscreen, the capacitance of the touchscreen will be changed due to finger contacts, and then the output voltage of the sensing circuit will change and it is proportional to the capacitance variation. Once the output voltage exceeds the threshold, a finger touch will be detected. To comparison, WIGHT cannot touch the screen and cannot change the screen capacitance. Instead, she can change the output voltage by disturbing the excitation signals and affecting how the sensing circuit measures the capacitance changes.
+
 <img src="https://github.com/yanjiang98/WIGHT/blob/main/images/touchscreenwork.jpg" width="600px">
 
 # How does WIGHT Work?
