@@ -2,7 +2,7 @@
 Capacitive touchscreens have become essential interfaces for humans to interact with a variety of consumer electronics, e.g., smartphones, tablets, and even vehicles, reliable touch operation becomes critical for usability and security. “Ghost Touch” indicates the phenomena that a touchscreen outputs fake touches and starts to control the device by itself yet users impose no physical contacts on the screen at all. Unlike existing work that injects ghost touches by conducting radiated EMI over the air or employing a malicious software, we propose WIGHT that can induce malicious touches on the touchscreen by injecting conducted EMI into the charging cable without accessing the USB data line.
 
 # Overview of the principle of WIGHT
-
+![images](https://github.com/yanjiang98/WIGHT/blob/main/images/overview.png)
 WIGHT first injects a crafted common-mode signal into the GND line of the charging cable, and then the common-mode signal will be converterd into a differential-mode signal due to the asymmetric circuits in the touch controller. Then, the differential-mode signal will interfere with the capaitance measurement. Once the output signal of the sensing circuit exceeds the threshold, ghost touches will be detected.
 
 # How dose human touch work?
@@ -47,8 +47,10 @@ We validated the effectiveness of WIGHT on 9 commercial touchscreen devices, 13 
 ```
 
 # Powered by
-|Ubiquitous System Security Laboratory (USSLab)|Zhejiang University|Technical University of Darmstadt|
-|:---|:---|:---|
+|Ubiquitous System Security Laboratory (USSLab)|Zhejiang University|
+|![images](https://github.com/yanjiang98/WIGHT/blob/main/images/usslab.png)||
+|||
+|System Security Lab|Technical University of Darmstadt|
 |列1的内容1|列2的内容1|列2的内容1|
 
 
