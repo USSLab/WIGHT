@@ -42,12 +42,13 @@ To create desired touch event, WIGHT needs to know where the target positions of
 
 
 # Demo Videos
-
+The full demo videos can be found at [WIGHT Demo Link](https://sites.google.com/view/jytest2022/%E9%A6%96%E9%A1%B5).
 * Controlling devices: Pick up an eavesdropping phone call
-
+* Controlling devices: Connect an AirPods
 * Misdirecting options: Change user's original touch operation and open an unintended website
+* Blocking operations: Disable smartphone's touch services
 
-* Blocking operations:Disable smartphone's touch services
+
 
 # Evaluation of WIGHT
 We validated the effectiveness of WIGHT on 9 commercial touchscreen devices, 13 charging cables, and 6 power adapters.
