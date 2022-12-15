@@ -28,6 +28,7 @@ CM-DM conversion strategy indicates that a common-mode signal converts into a di
 (2) Signal type: As a square-wave consists of multiple harmonics /hɑrˈmɑnɪks/ while a sine-wave only consists of a single frequency, the energy of the sine-wave is more concentrated at the vulnerable frequency. so WIGHT suggests using sine-wave as the attack signal.
 
 (3) Signal magnitude: WIGHT recommends selecting stronger attack signals within the power limitation of attack devices.
+
 <img src="https://github.com/yanjiang98/WIGHT/blob/main/images/enhance.jpg" width="600px">
 
 
