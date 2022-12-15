@@ -54,6 +54,8 @@ The full demo videos can be found at [WIGHT Demo Link](https://sites.google.com/
 * Controlling devices: Pick up an eavesdropping phone call
 * Controlling devices: Connect an AirPods
 * Misdirecting options: Change user's original touch operation and open an unintended website
+
+<img src="https://github.com/yanjiang98/WIGHT/blob/main/demo/iphone se2连接airpods 第三人视角小.gif" width="300px">
 * Blocking operations: Disable smartphone's touch services
 
 
